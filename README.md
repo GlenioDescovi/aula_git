@@ -7,3 +7,5 @@ segunda alteração
 Ewerton Barbosa
 
 Pedro Berleze Rorato
+
+Lucas Pivetta
