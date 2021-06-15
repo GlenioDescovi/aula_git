@@ -9,3 +9,5 @@ Ewerton Barbosa
 Pedro Berleze Rorato
 
 Lucas Pivetta
+
+Mariéle Colodzey Erd
