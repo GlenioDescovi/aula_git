@@ -11,3 +11,5 @@ Pedro Berleze Rorato
 Lucas Pivetta
 
 Mariéle Colodzey Erd
+
+Douglas Estivalet de Christo
