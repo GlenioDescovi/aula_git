@@ -15,3 +15,5 @@ Mariéle Colodzey Erd
 Douglas Estivalet de Christo
 
 Mateus Osvaldo Klan Pereira
+
+Rodrigo Balest Pinto de Oliveira
